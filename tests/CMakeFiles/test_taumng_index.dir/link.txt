@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -fno-builtin-malloc -fno-builtin-calloc -fno-builtin-realloc -fno-builtin-free -rdynamic CMakeFiles/test_taumng_index.dir/test_taumng_index.cpp.o -o test_taumng_index  ../src/libefanna2e.a -ltcmalloc 

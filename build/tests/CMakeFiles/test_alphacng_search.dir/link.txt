@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -fno-builtin-malloc -fno-builtin-calloc -fno-builtin-realloc -fno-builtin-free -rdynamic CMakeFiles/test_alphacng_search.dir/test_alphacng_search.cpp.o -o test_alphacng_search  ../src/libefanna2e.a -ltcmalloc 

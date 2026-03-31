@@ -1,0 +1,10 @@
+/ssd1/lbh/code/Fast-Convergent-Proximity-Graphs-for-Approximate-Nearest-Neighbor-Search/build/CMakeFiles/edit_cache.dir
+/ssd1/lbh/code/Fast-Convergent-Proximity-Graphs-for-Approximate-Nearest-Neighbor-Search/build/CMakeFiles/rebuild_cache.dir
+/ssd1/lbh/code/Fast-Convergent-Proximity-Graphs-for-Approximate-Nearest-Neighbor-Search/build/src/CMakeFiles/efanna2e.dir
+/ssd1/lbh/code/Fast-Convergent-Proximity-Graphs-for-Approximate-Nearest-Neighbor-Search/build/src/CMakeFiles/efanna2e_s.dir
+/ssd1/lbh/code/Fast-Convergent-Proximity-Graphs-for-Approximate-Nearest-Neighbor-Search/build/src/CMakeFiles/edit_cache.dir
+/ssd1/lbh/code/Fast-Convergent-Proximity-Graphs-for-Approximate-Nearest-Neighbor-Search/build/src/CMakeFiles/rebuild_cache.dir
+/ssd1/lbh/code/Fast-Convergent-Proximity-Graphs-for-Approximate-Nearest-Neighbor-Search/build/tests/CMakeFiles/test_alphacng_index.dir
+/ssd1/lbh/code/Fast-Convergent-Proximity-Graphs-for-Approximate-Nearest-Neighbor-Search/build/tests/CMakeFiles/test_alphacng_search.dir
+/ssd1/lbh/code/Fast-Convergent-Proximity-Graphs-for-Approximate-Nearest-Neighbor-Search/build/tests/CMakeFiles/edit_cache.dir
+/ssd1/lbh/code/Fast-Convergent-Proximity-Graphs-for-Approximate-Nearest-Neighbor-Search/build/tests/CMakeFiles/rebuild_cache.dir
