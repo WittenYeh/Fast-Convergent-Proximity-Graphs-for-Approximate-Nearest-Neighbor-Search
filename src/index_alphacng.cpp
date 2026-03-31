@@ -850,7 +850,8 @@ void IndexAlphaCNG::Search(const float *query, const float *x, size_t K,
   }
 
   while (tmp_l < L) {
-    unsigned id = rand() % nd_;
+    thread_local std::mt19937 rng(std::random_device{}());
+    unsigned id = rng() % nd_;
     if (flags[id]) continue;
     flags[id] = true;
     init_ids[tmp_l] = id;
